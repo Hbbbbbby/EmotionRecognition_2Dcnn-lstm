@@ -1,0 +1,4 @@
+numpy==1.19.2
+tensorflow==2.2.0
+librosa==0.8.0
+scikit_learn==0.24.1
