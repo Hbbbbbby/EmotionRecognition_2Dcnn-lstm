@@ -31,6 +31,9 @@ and finally, running!
   [JianfengZhao,Xiao Mao,Lijiang Chen, Speech emotion recognition using deep 1D & 2D CNN LSTM networks,Biomedical Signal Processing and Control
 Volume 47, January 2019, Pages 312-323][paper]
 
+## Contact
+  Any issuse should submit directly or send email msp_baiyuhe@163.com.
+
 [EmoDB]: http://emodb.bilderbar.info/docu/
 [paper]: https://www.sciencedirect.com/science/article/abs/pii/S1746809418302337
 
