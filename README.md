@@ -1,4 +1,4 @@
-# <center>EmotionRecognition_2D CNN LSTM networks
+# <center> EmotionRecognition_2D CNN LSTM networks
 
 ## INTRODUCTION
 ## ENVIROMENT
