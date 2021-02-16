@@ -1,7 +1,7 @@
 # EmotionRecognition_2D CNN LSTM networks
 
 ## Introduction
-According to the nice paper,[Speech emotion recognition using deep 1D & 2D CNN LSTM networks][paper],the 2D CNN LSTM model was built by tensorflow2-keras modul.With training and testing in EmoBd, the model we built showed the closest conclusion comparead with the paper.
+  According to the nice paper,[Speech emotion recognition using deep 1D & 2D CNN LSTM networks][paper],the 2D CNN LSTM model was built by tensorflow2-keras modul.With training and testing in [EmoDB][EmoDB], the model we built showed the closest conclusion comparead with the paper.
 
 ## Requiremrnts
 The code should run the enviroment as follow list:
@@ -14,13 +14,15 @@ The code should run the enviroment as follow list:
   scikit_learn|0.24.1
 
 You can run the following command in the terminal to establish the enviroment : 
-* `pip install -r requirement.txt`
+  * `pip install -r requirement.txt`
 
 ## Dataset
-  
+  You can dowload [Berlin Database of Emotional Speech][EmoDB].
 
 ## Reference
   [JianfengZhao,Xiao Mao,Lijiang Chen, Speech emotion recognition using deep 1D & 2D CNN LSTM networks,Biomedical Signal Processing and Control
 Volume 47, January 2019, Pages 312-323][paper]
 
+[EmoDB]: http://emodb.bilderbar.info/docu/
 [paper]: https://www.sciencedirect.com/science/article/abs/pii/S1746809418302337
+
