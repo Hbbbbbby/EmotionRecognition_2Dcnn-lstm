@@ -1,4 +1,4 @@
-# <center> EmotionRecognition_2D CNN LSTM networks
+# EmotionRecognition_2D CNN LSTM networks
 
 ## INTRODUCTION
 ## ENVIROMENT
@@ -10,11 +10,9 @@ tensorflow|2.2.0
 librosa|0.8.0
 scikit_learn|0.24.1
 
-
-## INSTALLATION
-
+## Requiremrnts
+you can run the following command in the terminal to establish the enviroment : 
 * `pip install -r requirement.txt`
-* `python main.py`
 
 ## REFERENCE
   [JianfengZhao,Xiao Mao,Lijiang Chen, Speech emotion recognition using deep 1D & 2D CNN LSTM networks,Biomedical Signal Processing and Control
