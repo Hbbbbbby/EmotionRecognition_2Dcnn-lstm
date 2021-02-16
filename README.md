@@ -5,7 +5,7 @@
   According to the nice paper,[Speech emotion recognition using deep 1D & 2D CNN LSTM networks][paper],the 2D CNN LSTM model was built by tensorflow2-keras modul.With training and testing in [EmoDB][EmoDB], the model we built showed the closest conclusion comparead with the paper.
 
 
-## Requiremrnts
+## Requirements
 The code should run the enviroment as follow list:
   name|version
   :---:|:---:
