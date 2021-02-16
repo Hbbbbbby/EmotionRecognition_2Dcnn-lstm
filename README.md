@@ -1,7 +1,9 @@
 # EmotionRecognition_2D CNN LSTM networks
 
 ## INTRODUCTION
-## ENVIROMENT
+
+## Requiremrnts
+The code should run the enviroment as follow list:
 name|version
 :---:|:---:
 python|3.8
@@ -10,8 +12,7 @@ tensorflow|2.2.0
 librosa|0.8.0
 scikit_learn|0.24.1
 
-## Requiremrnts
-you can run the following command in the terminal to establish the enviroment : 
+You can run the following command in the terminal to establish the enviroment : 
 * `pip install -r requirement.txt`
 
 ## REFERENCE
